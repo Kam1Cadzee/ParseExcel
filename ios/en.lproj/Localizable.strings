@@ -1,0 +1,17 @@
+NSCameraUsageDescription = "This app requires access to the camera. It allows to take new photos for the coverings.";
+NSContactsUsageDescription = "App requires contacts for extending your friends connection in the RolBox. App compares your contact list with RolBox users to show who can be added as a friend. No contacts information will be saved.";
+NSPhotoLibraryUsageDescription = "This app requires access to photo library. It allows to pick an existing photo from the library for the covering.";
+NSUserTrackingUsageDescription = "Можно ли использовать данные о вашей активности? Если вы разрешите, реклама RolBox на сайтах и в других приложениях будет более актуальной.";
+friendRequestTitle = "Friend request";
+friendRequestBody = "%@ wants to add you as a friend";
+createEventTitle = "Invitation";
+createEventBody = "You invited to event %@";
+ = "";
+removeParticipantTitle = "%@";
+removeParticipantBody = "Invite to %@ was cancelled";
+ = "";
+deleteEventTitle = "%@";
+deleteEventBody = "Event %@ was canceled";
+ = "";
+answerEventTitle = "%@";
+answerEventBody = "%@ has replied “%@” to invitation.";

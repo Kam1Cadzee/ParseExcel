@@ -1,0 +1,651 @@
+ID,CODE,KEY,EN,FR
+1,"""common.btn.logOut"": ""Logout"",",common.btn.logOut, Logout,Se déconnecter
+2,"""common.btn.new"": ""+ New"",",common.btn.new, + New,+ Nouveau
+3,"""common.btn.modify"": ""Edit"",",common.btn.modify, Edit,Éditer
+4,"""common.btn.modify.lower"": ""edit"",",common.btn.modify.lower, edit,Éditer
+5,"""common.btn.save"": ""Save"",",common.btn.save, Save,Sauvegarder
+6,"""common.btn.cancel"": ""Cancel"",",common.btn.cancel, Cancel,Annuler
+7,"""common.btn.upload"": ""Upload"",",common.btn.upload, Upload,Télécharger
+8,"""common.btn.add.field"": ""Add field"",",common.btn.add.field, Add field,Ajouter un champ
+9,"""common.btn.duplicate"": ""Duplicate"",",common.btn.duplicate, Duplicate,Dupliquer
+10,"""common.title.create"": ""Create"",",common.title.create, Create,Créer
+11,"""common.title.delete"": ""Delete"",",common.title.delete, Delete,Supprimer
+12,"""common.title.view"": ""View"",",common.title.view, View,Voir
+13,"""common.copyright"": ""Created by EVOHOM"",",common.copyright, Created by EVOHOM,Créé par evohom
+14,"""common.validation.required"": ""Field is required"",",common.validation.required, Field is required,Champ requis
+15,"""common.label.source"": ""Source"",",common.label.source, Source,La source
+16,"""common.label.target"": ""Target"",",common.label.target, Target,Cible
+17,"""common.error.internalServerError"": ""System internal error!"",",common.error.internalServerError, System internal error!,Erreur interne du système !
+18,"""common.delete.confirm.message"": ""Are you sure to delete this item?"",",common.delete.confirm.message, Are you sure to delete this item?,Êtes-vous sûr de supprimer cet article ?
+19,"""common.confirm.btn.yes"": ""Yes"",",common.confirm.btn.yes, Yes,Oui
+20,"""common.confirm.btn.cancel"": ""No"",",common.confirm.btn.cancel, No,Non
+21,"""common.goods.placeholder"": ""Select"",",common.goods.placeholder, Select,Sélectionner
+22,"""common.modal.confirm"": ""Confirm"",",common.modal.confirm, Confirm,Confirmer
+23,"""common.modal.confirm.ok"": ""Ok"",",common.modal.confirm.ok, Ok,D'accord
+24,"""common.modal.confirm.cancel"": ""Cancel"",",common.modal.confirm.cancel, Cancel,Annuler
+25,"""common.filters.isActive"": ""Active"",",common.filters.isActive, Active,actif
+26,"""common.filters.nonActive"": ""Inactive"",",common.filters.nonActive, Inactive,Inactif
+27,"""common.return.btn"": ""Return"",",common.return.btn, Return,Retourner
+28,"""common.no.data"": ""No data"",",common.no.data, No data,Pas de données
+29,"""login.page.btn"": ""Login"",",login.page.btn, Login,Connexion
+30,"""login.page.username.placeholder"": ""Username"",",login.page.username.placeholder, Username,Nom d'utilisateur
+31,"""login.page.username.validation"": ""Please input your username!"",",login.page.username.validation, Please input your username!,Veuillez saisir votre nom d'utilisateur !
+32,"""login.page.password.placeholder"": ""Password"",",login.page.password.placeholder, Password,Mot de passe
+33,"""login.page.password.validation"": ""Please input your password!"",",login.page.password.validation, Please input your password!,Veuillez saisir votre mot de passe !
+34,"""login.page.notification.warning"": ""Warning"",",login.page.notification.warning, Warning,Avertissement
+35,"""login.page.notification.serverError"": ""Internal server error!"",",login.page.notification.serverError, Internal server error!,Erreur interne du serveur !
+36,"""login.page.notification.tokenExpired"": ""Token expired!"",",login.page.notification.tokenExpired, Token expired!,Jeton a expiré !
+37,"""change.password.btn"": ""Change password"",",change.password.btn, Change password,Changer le mot de passe
+38,"""change.password.newPassword.placeholder"": ""New password"",",change.password.newPassword.placeholder, New password,Nouveau mot de passe
+39,"""change.password.newPassword.validation"": ""Please input your password!"",",change.password.newPassword.validation, Please input your password!,Veuillez saisir votre mot de passe !
+40,"""change.password.confirmNewPassword.placeholder"": ""Confirm new password"",",change.password.confirmNewPassword.placeholder, Confirm new password,Confirmer le nouveau mot de passe
+41,"""change.password.confirmNewPassword.validation"": ""Please input your password!"",",change.password.confirmNewPassword.validation, Please input your password!,Veuillez saisir votre mot de passe !
+42,"""change.password.invalid"": ""Password is invalid!"",",change.password.invalid, Password is invalid!,Le mot de passe est invalide !
+44,"""projects.bread.root"": ""Projects"",",projects.bread.root, Projects,Projets
+45,"""projects.table.columns.name"": ""Name"",",projects.table.columns.name, Name,Nom
+46,"""projects.table.columns.title"": ""Title"",",projects.table.columns.title, Title,Titre
+47,"""projects.table.columns.createdDate"": ""Created Date"",",projects.table.columns.createdDate, Created Date,Date de création
+48,"""projects.table.columns.updatedDate"": ""Updated Date"",",projects.table.columns.updatedDate, Updated Date,Date mise à jour
+49,"""projects.table.columns.action"": ""Action"",",projects.table.columns.action, Action,Action
+50,"""projects.create.title.create"": ""Create project"",",projects.create.title.create, Create project,Créer un projet
+51,"""projects.create.title.update"": ""Update project"",",projects.create.title.update, Update project,Projet de mise à jour
+52,"""projects.create.logo"": ""Logo"",",projects.create.logo, Logo,Logo
+53,"""projects.create.logo.mimetype.error"": ""You can only upload JPG/PNG file!"",",projects.create.logo.mimetype.error, You can only upload JPG/PNG file!,Vous ne pouvez télécharger que le fichier JPG / PNG !
+54,"""projects.create.logo.fileSize.error"": ""Image must smaller than 2MB!"",",projects.create.logo.fileSize.error, Image must smaller than 2MB!,L'image doit être inférieure à 2 Mo !
+55,"""projects.create.name"": ""Name"",",projects.create.name, Name,Nom
+56,"""projects.create.name.validation"": ""Please input project name"",",projects.create.name.validation, Please input project name,Veuillez saisir le nom du projet
+57,"""projects.create.title"": ""Title"",",projects.create.title, Title,Titre
+58,"""projects.create.title.validation"": ""Please input project title"",",projects.create.title.validation, Please input project title,Veuillez saisir le titre du projet
+59,"""projects.create.code"": ""External email service code"",",projects.create.code, External email service code,Code de service de messagerie externe
+60,"""projects.create.source"": ""External email service source code"",",projects.create.source, External email service source code,Code source de service de messagerie externe
+61,"""projects.create.copy.success"": ""The API key was copied"",",projects.create.copy.success, The API key was copied,La clé API a été copiée
+62,"""projects.create.users.title"": ""Users"",",projects.create.users.title, Users,Utilisateurs
+63,"""projects.create.users.media"": ""Media"",",projects.create.users.media, Media,Médias
+64,"""projects.create.file"": ""Image or 3D file"",",projects.create.file, Image or 3D file,Image ou fichier 3D
+65,"""projects.create.code.validation"": ""Please input external email service code"",",projects.create.code.validation, Please input external email service code,Veuillez saisir le code de service de messagerie externe
+66,"""projects.create.source.validation"": ""Please select external email service source code"",",projects.create.source.validation, Please select external email service source code,Veuillez sélectionner le code source de service de messagerie externe
+67,"""properties.title"": ""List of properties"",",properties.title, List of properties,Liste des propriétés
+68,"""properties.bread.root"": ""Properties"",",properties.bread.root, Properties,Propriétés
+69,"""properties.table.columns.title"": ""Title"",",properties.table.columns.title, Title,Titre
+70,"""properties.table.columns.type"": ""Type"",",properties.table.columns.type, Type,Taper
+71,"""properties.table.columns.status"": ""Status"",",properties.table.columns.status, Status,Statut
+72,"""properties.table.columns.typology"": ""Typology"",",properties.table.columns.typology, Typology,Typologie
+73,"""properties.table.columns.action"": ""Action"",",properties.table.columns.action, Action,action
+74,"""properties.create.items.title"": ""Title"",",properties.create.items.title, Title,Titre
+75,"""properties.create.items.status"": ""Status"",",properties.create.items.status, Status,Statut
+76,"""properties.create.items.type"": ""Type"",",properties.create.items.type, Type,Type d'objet
+77,"""properties.create.items.goods"": ""evohome Parent id"",",properties.create.items.goods, evohome Parent id,evohome Parent id
+78,"""properties.create.items.goods.placeholder"": ""Select"",",properties.create.items.goods.placeholder, Select,Sélectionner
+79,"""properties.create.items.neighbors"": ""evohome Neighbors id"",",properties.create.items.neighbors, evohome Neighbors id,Voisins
+80,"""properties.create.items.floorPlan"": ""Floor plan"",",properties.create.items.floorPlan, Floor plan,Plan d'étage
+81,"""properties.create.items.typologies"": ""Typology"",",properties.create.items.typologies, Typology,Typologie
+82,"""properties.create.items.projects"": ""Project"",",properties.create.items.projects, Project,Projet
+83,"""properties.create.items.addDomain"": ""Add a domain"",",properties.create.items.addDomain, Add a domain,Ajouter un domaine
+84,"""properties.create.items.addDomain.placeholder"": ""Select a field"",",properties.create.items.addDomain.placeholder, Select a field,Sélectionner un champ
+85,"""properties.create.items.addContactDetails"": ""evohome Position id"",",properties.create.items.addContactDetails, evohome Position id,Ajouter les détails des coordonnées
+86,"""properties.create.items.addContactDetails.cut"": ""Size"",",properties.create.items.addContactDetails.cut, Size,Taille
+87,"""properties.create.items.addContactDetails.information"": ""Coordinates details"",",properties.create.items.addContactDetails.information, Coordinates details,Détails des coordonnées
+88,"""properties.create.items.addContactDetails.validation"": ""Please enter coordinates details"",",properties.create.items.addContactDetails.validation, Please enter coordinates details,Veuillez entrer les coordonnées
+89,"""properties.create.items.addField"": ""Add field"",",properties.create.items.addField, Add field,Ajouter le champ
+90,"""properties.placeholder.change.property"": ""Property"",",properties.placeholder.change.property, Property,Propriété
+91,"""properties.label.change.property"": ""Select property"",",properties.label.change.property, Select property,Sélectionner une propriété
+92,"""users.title"": ""Users list"",",users.title, Users list,Liste des utilisateurs
+93,"""users.bread.root"": ""Users"",",users.bread.root, Users,Utilisateurs
+94,"""users.table.columns.email"": ""Email"",",users.table.columns.email, Email,E-mail
+95,"""users.table.columns.login"": ""Login"",",users.table.columns.login, Login,Connexion
+96,"""users.table.columns.name"": ""Name"",",users.table.columns.name, Name,Nom
+97,"""users.table.columns.lockedDate"": ""Locked"",",users.table.columns.lockedDate, Locked,Verrouillé
+98,"""users.table.columns.isPasswordExpired"": ""Password expired"",",users.table.columns.isPasswordExpired, Password expired,Mot de passe expiré
+99,"""users.table.columns.isActive"": ""Is active"",",users.table.columns.isActive, Is active,C'est actif
+100,"""users.table.columns.lastLoginDate"": ""Last login date"",",users.table.columns.lastLoginDate, Last login date,Date de la dernière connexion
+101,"""users.table.columns.action"": ""Action"",",users.table.columns.action, Action,action
+102,"""users.create.title.create"": ""Create user"",",users.create.title.create, Create user,Créer un utilisateur
+103,"""users.create.title.update"": ""Edit user"",",users.create.title.update, Edit user,Modifier l'utilisateur
+104,"""users.create.card.user.title"": ""User information"",",users.create.card.user.title, User information,Informations de l'utilisateur
+105,"""users.create.card.user.image"": ""Image"",",users.create.card.user.image, Image,Image
+106,"""users.create.card.user.login"": ""Login"",",users.create.card.user.login, Login,Connexion
+107,"""users.create.card.user.firstName"": ""Name"",",users.create.card.user.firstName, Name,Nom
+108,"""users.create.card.user.lastName"": ""Last name"",",users.create.card.user.lastName, Last name,Nom de famille
+109,"""users.create.card.user.phone"": ""Cell phone"",",users.create.card.user.phone, Cell phone,Téléphone portable
+110,"""users.create.card.user.email"": ""E-mail"",",users.create.card.user.email, E-mail,E-mail
+111,"""users.create.card.user.bookingLink"": ""Booking link"",",users.create.card.user.bookingLink, Booking link,Lien de réservation
+112,"""users.create.card.user.technicalPassword"": ""Technical password"",",users.create.card.user.technicalPassword, Technical password,Mot de passe technique
+113,"""users.create.card.user.projects"": ""Choose projects"",",users.create.card.user.projects, Choose projects,Choisissez des projets
+114,"""users.create.card.user.projects.placeholder"": ""Please select projects"",",users.create.card.user.projects.placeholder, Please select projects,S'il vous plaît sélectionner des projets
+115,"""users.create.card.roles.title"": ""Roles"",",users.create.card.roles.title, Roles,Les rôles
+116,"""roles.title"": ""List of roles"",",roles.title, List of roles,Liste des rôles
+117,"""roles.bread.root"": ""Roles"",",roles.bread.root, Roles,Les rôles
+118,"""roles.table.columns.name"": ""Name"",",roles.table.columns.name, Name,Nom
+119,"""roles.table.columns.description"": ""Description"",",roles.table.columns.description, Description,Description
+120,"""roles.table.columns.menuFunctions"": ""Functions"",",roles.table.columns.menuFunctions, Functions,Les fonctions
+121,"""roles.table.columns.action"": ""Action"",",roles.table.columns.action, Action,Actions
+122,"""roles.create.title.create"": ""Create a role"",",roles.create.title.create, Create a role,Créer un rôle
+123,"""roles.create.title.update"": ""Edit role"",",roles.create.title.update, Edit role,Rôle de modification
+124,"""roles.create.card.role.title"": ""Role information"",",roles.create.card.role.title, Role information,Information sur le rôle
+125,"""roles.create.card.role.name"": ""Name"",",roles.create.card.role.name, Name,Nom
+126,"""roles.create.card.role.name.validation"": ""Please enter the role name!"",",roles.create.card.role.name.validation, Please enter the role name!,Veuillez entrer le nom du rôle!
+127,"""roles.create.card.role.description"": ""Description"",",roles.create.card.role.description, Description,La description
+128,"""roles.create.card.role.description.validation"": ""Please enter the role description!"",",roles.create.card.role.description.validation, Please enter the role description!,Veuillez saisir la description du rôle !
+129,"""roles.create.card.role.menuFunctions"": ""Menu functions"",",roles.create.card.role.menuFunctions, Menu functions,Fonctions de menu
+130,"""roles.create.card.role.menuFunctions.placeholder"": ""Please select menu functions"",",roles.create.card.role.menuFunctions.placeholder, Please select menu functions,Veuillez sélectionner les fonctions du menu
+131,"""roles.create.card.role.users"": ""Users"",",roles.create.card.role.users, Users,Utilisateurs
+132,"""roles.create.card.params.title"": ""Parameters"",",roles.create.card.params.title, Parameters,Paramètres
+133,"""roles.create.card.params.add"": ""Add an parameters"",",roles.create.card.params.add, Add an parameters,Ajouter un paramètre
+134,"""roles.create.card.params.placeholder"": ""Select an option"",",roles.create.card.params.placeholder, Select an option,Sélectionnez une option
+135,"""typology.title"": ""List of typologies"",",typology.title, List of typologies,Liste des typologies
+136,"""typology.bread.root"": ""Typologies"",",typology.bread.root, Typologies,Typologies
+137,"""typology.table.columns.title"": ""Title"",",typology.table.columns.title, Title,Titre
+138,"""typology.table.columns.levelsCount"": ""Levels count"",",typology.table.columns.levelsCount, Levels count,Les niveaux comptent
+139,"""typology.table.columns.action"": ""Action"",",typology.table.columns.action, Action,action
+140,"""typology.create.title.create"": ""Create typology"",",typology.create.title.create, Create typology,Créer une typologie
+141,"""typology.create.title.update"": ""Edit typology"",",typology.create.title.update, Edit typology,Modifier la typologie
+142,"""typology.create.card.typology.title"": ""Title"",",typology.create.card.typology.title, Title,Titre
+143,"""typology.create.card.typology.title.validation"": ""Please enter the typology title!"",",typology.create.card.typology.title.validation, Please enter the typology title!,Veuillez entrer le titre de typologie!
+144,"""typology.create.card.typology.label"": ""Typology information"",",typology.create.card.typology.label, Typology information,Information de typologie
+145,"""typology.create.card.levels.title"": ""Typology levels"",",typology.create.card.levels.title, Typology levels,Niveaux de typologie
+146,"""typology.create.notification.create"": ""Typology has been created"",",typology.create.notification.create, Typology has been created,La typologie a été créée
+147,"""typology.create.notification.update"": ""Typology has been updated"",",typology.create.notification.update, Typology has been updated,La typologie a été mise à jour
+148,"""typology.create.object3D"": ""3D file"",",typology.create.object3D, 3D file,Fichier 3D
+149,"""typology.create.babylonCode"": ""Babylon code"",",typology.create.babylonCode, Babylon code,Code Babylone
+150,"""typology.create.babylonParams"": ""Babylon params"",",typology.create.babylonParams, Babylon params,Params Babylon
+151,"""typology.not.delete.message"": ""Can't delete typology! Because node has child levels"",",typology.not.delete.message, Can't delete typology! Because node has child levels,Impossible de supprimer la typologie ! Parce que le nœud a des niveaux d'enfant
+152,"""level.table.columns.name"": ""Name"",",level.table.columns.name, Name,Nom
+153,"""level.table.columns.title"": ""Title"",",level.table.columns.title, Title,Titre
+154,"""level.table.columns.level"": ""Level"",",level.table.columns.level, Level,Niveau
+155,"""level.table.columns.isDefault"": ""Is default"",",level.table.columns.isDefault, Is default,Est par défaut
+156,"""level.create.title.create"": ""Create typology level"",",level.create.title.create, Create typology level,Créer un niveau de typologie
+157,"""level.create.title.update"": ""Edit typology level"",",level.create.title.update, Edit typology level,Modifier le niveau de typologie
+158,"""level.create.card.level.label"": ""Level information"",",level.create.card.level.label, Level information,Informations de niveau
+159,"""level.create.card.variants.title"": ""Level variants"",",level.create.card.variants.title, Level variants,Variantes de niveau
+160,"""level.create.card.level.name"": ""Name"",",level.create.card.level.name, Name,Nom
+161,"""level.create.card.level.name.validation"": ""Please enter the level name!"",",level.create.card.level.name.validation, Please enter the level name!,S'il vous plaît entrer le nom de niveau !
+162,"""level.create.card.level.title"": ""Title"",",level.create.card.level.title, Title,Titre
+163,"""level.create.card.level.title.validation"": ""Please enter the level title!"",",level.create.card.level.title.validation, Please enter the level title!,Veuillez entrer le titre de niveau !
+164,"""level.create.card.level.level"": ""Level"",",level.create.card.level.level, Level,Niveau
+165,"""level.create.card.level.level.validation"": ""Please enter the level number!"",",level.create.card.level.level.validation, Please enter the level number!,Veuillez entrer le numéro de niveau !
+166,"""level.create.card.level.isDefault.label"": ""Default"",",level.create.card.level.isDefault.label, Default,Défaut
+167,"""level.create.card.level.isDefault.value"": ""Is default"",",level.create.card.level.isDefault.value, Is default,Est par défaut
+168,"""level.create.babylonCode"": ""Babylon code"",",level.create.babylonCode, Babylon code,Code Babylone
+169,"""level.create.babylonParams"": ""Babylon params"",",level.create.babylonParams, Babylon params,Params Babylon
+170,"""level.create.notification.create"": ""Level has been created"",",level.create.notification.create, Level has been created,Le niveau a été créé
+171,"""level.create.notification.update"": ""Level has been updated"",",level.create.notification.update, Level has been updated,Le niveau a été mis à jour
+172,"""level.not.delete.message"": ""Can't delete level! Because node has child variants"",",level.not.delete.message, Can't delete level! Because node has child variants,Impossible de supprimer le niveau ! Parce que le nœud a des variantes d'enfants
+173,"""variant.table.columns.title"": ""Title"",",variant.table.columns.title, Title,Titre
+174,"""variant.table.columns.name"": ""Name"",",variant.table.columns.name, Name,Nom
+175,"""variant.table.columns.description"": ""Description"",",variant.table.columns.description, Description,La description
+176,"""variant.table.columns.rooms"": ""Rooms"",",variant.table.columns.rooms, Rooms,Pièces
+177,"""variant.table.columns.isActive"": ""Active"",",variant.table.columns.isActive, Active,actif
+178,"""variant.table.columns.isDefault"": ""Default"",",variant.table.columns.isDefault, Default,Défaut
+179,"""variant.table.columns.babylonId"": ""Babylon ID"",",variant.table.columns.babylonId, Babylon ID,Babylon ID
+180,"""variant.table.columns.action"": ""Action"",",variant.table.columns.action, Action,action
+181,"""variant.create.title.create"": ""Create level variant"",",variant.create.title.create, Create level variant,Créer une variante de niveau
+182,"""variant.create.title.update"": ""Edit level variant"",",variant.create.title.update, Edit level variant,Modifier la variante de niveau
+183,"""variant.create.title"": ""Title"",",variant.create.title, Title,Titre
+184,"""variant.create.title.validation"": ""Please enter the variant title!"",",variant.create.title.validation, Please enter the variant title!,Veuillez entrer le titre de la variante!
+185,"""variant.create.name"": ""Name"",",variant.create.name, Name,Nom
+186,"""variant.create.name.validation"": ""Please enter the variant name!"",",variant.create.name.validation, Please enter the variant name!,S'il vous plaît entrer le nom de la variante!
+187,"""variant.create.description"": ""Description"",",variant.create.description, Description,La description
+188,"""variant.create.description.validation"": ""Please enter the variant description!"",",variant.create.description.validation, Please enter the variant description!,Veuillez entrer la description de la variante!
+189,"""variant.create.rooms"": ""Rooms"",",variant.create.rooms, Rooms,Pièces
+190,"""variant.create.allSurface"": ""All surface"",",variant.create.allSurface, All surface,Toute la surface
+191,"""variant.create.babylonCode"": ""Babylon code"",",variant.create.babylonCode, Babylon code,Code Babylone
+192,"""variant.create.babylonParams"": ""Babylon params"",",variant.create.babylonParams, Babylon params,Params Babylon
+193,"""variant.create.isActive.label"": ""Active"",",variant.create.isActive.label, Active,actif
+194,"""variant.create.isActive.value"": ""is active"",",variant.create.isActive.value, is active,c'est actif
+195,"""variant.create.isDefault.label"": ""Default"",",variant.create.isDefault.label, Default,Défaut
+196,"""variant.create.isDefault.value"": ""is default"",",variant.create.isDefault.value, is default,est par défaut
+197,"""variant.create.notification.create"": ""Variant has been created"",",variant.create.notification.create, Variant has been created,La variante a été créée
+198,"""variant.create.notification.update"": ""Variant has been updated"",",variant.create.notification.update, Variant has been updated,La variante a été mise à jour
+199,"""variant.create.floorPlanImg"": ""Floor plan image"",",variant.create.floorPlanImg, Floor plan image,Image plan d'étage
+200,"""variant.create.shortFloorPlanImg"": ""Short floor plan image"",",variant.create.shortFloorPlanImg, Short floor plan image,Image du plan d'étage court
+201,"""variant.title"": ""List of Variants"",",variant.title, List of Variants,Liste des variantes
+202,"""variant.not.delete.message"": ""Can't delete variant! Because node has child spaces"",",variant.not.delete.message, Can't delete variant! Because node has child spaces,Impossible de supprimer la variante ! Parce que le nœud a des espaces enfants
+203,"""space.create.name"": ""Name"",",space.create.name, Name,Nom
+204,"""space.create.name.validation"": ""Please enter the space name!"",",space.create.name.validation, Please enter the space name!,Veuillez entrer le nom de l'espace !
+205,"""space.create.title"": ""Title"",",space.create.title, Title,Titre
+206,"""space.create.title.validation"": ""Please enter the space title!"",",space.create.title.validation, Please enter the space title!,Veuillez entrer le titre de l'espace !
+207,"""space.create.surface"": ""Surface"",",space.create.surface, Surface,Surface
+208,"""space.create.types"": ""Type"",",space.create.types, Type,Taper
+209,"""space.create.types.validation"": ""Please select the space type!"",",space.create.types.validation, Please select the space type!,Veuillez sélectionner le type d'espace !
+210,"""space.create.babylonCode"": ""Babylon code"",",space.create.babylonCode, Babylon code,Code Babylone
+211,"""space.create.babylonParams"": ""Babylon params"",",space.create.babylonParams, Babylon params,Params Babylon
+212,"""space.create.notification.create"": ""Space has been created"",",space.create.notification.create, Space has been created,L'espace a été créé
+213,"""space.create.notification.update"": ""Space has been updated"",",space.create.notification.update, Space has been updated,L'espace a été mis à jour
+214,"""space.not.delete.message"": ""Can't delete space! Because node has child objects"",",space.not.delete.message, Can't delete space! Because node has child objects,Impossible de supprimer l'espace ! Parce que le nœud a des objets enfants
+215,"""space.object.create.name"": ""Name"",",space.object.create.name, Name,Nom
+216,"""space.object.create.name.validation"": ""Please enter the space object name!"",",space.object.create.name.validation, Please enter the space object name!,Veuillez entrer le nom de l'objet espace !
+217,"""space.object.create.title"": ""Title"",",space.object.create.title, Title,Titre
+218,"""space.object.create.title.validation"": ""Please enter the space object title!"",",space.object.create.title.validation, Please enter the space object title!,Veuillez entrer le titre de l'objet espace !
+219,"""space.object.create.types"": ""Type"",",space.object.create.types, Type,Taper
+220,"""space.object.create.babylonCode"": ""Babylon code"",",space.object.create.babylonCode, Babylon code,Code Babylone
+221,"""space.object.create.babylonParams"": ""Babylon params"",",space.object.create.babylonParams, Babylon params,Params Babylon
+222,"""space.object.create.isActive.label"": ""Active"",",space.object.create.isActive.label, Active,actif
+223,"""space.object.create.isActive.value"": ""is active"",",space.object.create.isActive.value, is active,c'est actif
+224,"""space.object.create.isDefault.label"": ""Default"",",space.object.create.isDefault.label, Default,Défaut
+225,"""space.object.create.isDefault.value"": ""is default"",",space.object.create.isDefault.value, is default,est par défaut
+226,"""space.object.create.notification.create"": ""Space object has been created"",",space.object.create.notification.create, Space object has been created,Objet spatial a été créé
+227,"""space.object.create.notification.update"": ""Space object has been updated"",",space.object.create.notification.update, Space object has been updated,Objet spatial a été mis à jour
+228,"""space.object.create.basic.tab.title"": ""Info"",",space.object.create.basic.tab.title, Info,Info
+229,"""space.object.create.option.tab.title"": ""Options"",",space.object.create.option.tab.title, Options,Option
+230,"""space.option.table.columns.name"": ""Name"",",space.option.table.columns.name, Name,Nom
+231,"""space.option.table.columns.isActive"": ""Active"",",space.option.table.columns.isActive, Active,actif
+232,"""space.option.table.columns.isDefault"": ""Default"",",space.option.table.columns.isDefault, Default,Défaut
+233,"""space.option.table.columns.action"": ""Action"",",space.option.table.columns.action, Action,action
+234,"""space.option.table.columns.isActive.active"": ""Active"",",space.option.table.columns.isActive.active, Active,actif
+235,"""space.option.table.columns.isActive.inactive"": ""Inactive"",",space.option.table.columns.isActive.inactive, Inactive,Inactif
+236,"""space.option.table.columns.isDefault.text"": ""Default"",",space.option.table.columns.isDefault.text, Default,Défaut
+237,"""space.object.create.option.title"": ""Create option"",",space.object.create.option.title, Create option,Créer une option
+238,"""space.object.update.option.title"": ""Update option"",",space.object.update.option.title, Update option,Option de mise à jour
+239,"""space.object.option.create.name"": ""Name"",",space.object.option.create.name, Name,Nom
+240,"""space.object.option.create.name.validation"": ""Please enter the space option name!"",",space.object.option.create.name.validation, Please enter the space option name!,Veuillez entrer le nom de l'option d'espace !
+241,"""space.object.option.create.title"": ""Title"",",space.object.option.create.title, Title,Titre
+242,"""space.object.option.create.title.validation"": ""Please enter the space option title!"",",space.object.option.create.title.validation, Please enter the space option title!,Veuillez entrer le titre de l'option espace !
+243,"""space.object.option.create.isActive.label"": ""Active"",",space.object.option.create.isActive.label, Active,actif
+244,"""space.object.option.create.isActive.value"": ""is active"",",space.object.option.create.isActive.value, is active,c'est actif
+245,"""space.object.option.create.isDefault.label"": ""Default"",",space.object.option.create.isDefault.label, Default,Défaut
+246,"""space.object.option.create.isDefault.value"": ""is default"",",space.object.option.create.isDefault.value, is default,est par défaut
+247,"""space.object.option.create.product"": ""Product"",",space.object.option.create.product, Product,Produit
+248,"""space.object.option.create.babylonCode"": ""Babylon code"",",space.object.option.create.babylonCode, Babylon code,Code Babylone
+249,"""space.object.option.create.babylonParams"": ""Babylon params"",",space.object.option.create.babylonParams, Babylon params,Params Babylon
+250,"""space.object.option.create.products"": ""Products"",",space.object.option.create.products, Products,Des produits
+251,"""space.object.option.assign.success"": ""Option was assigned!"",",space.object.option.assign.success, Option was assigned!,L'option a été attribuée !
+252,"""space.object.option.modal.title"": ""Assign option to other space objects"",",space.object.option.modal.title, Assign option to other space objects,Attribuer une option à d'autres objets d'espace
+253,"""space.object.option.modal.assign"": ""Assign"",",space.object.option.modal.assign, Assign,Attribuer
+254,"""space.object.option.modal.table.columns.spaceObject"": ""Object"",",space.object.option.modal.table.columns.spaceObject, Object,Objet
+255,"""space.object.option.modal.table.columns.space"": ""Space"",",space.object.option.modal.table.columns.space, Space,Espace
+256,"""space.object.option.modal.table.columns.variant"": ""Variant"",",space.object.option.modal.table.columns.variant, Variant,Une variante
+257,"""space.object.option.modal.table.columns.level"": ""Level"",",space.object.option.modal.table.columns.level, Level,Niveau
+258,"""space.object.option.modal.table.columns.typology"": ""Typology"",",space.object.option.modal.table.columns.typology, Typology,Typologie
+259,"""space.object.option.assign.btn.title"": ""Assign option to another space object"",",space.object.option.assign.btn.title, Assign option to another space object,Attribuer une option à un autre objet espace
+260,"""product.title"": ""Products"",",product.title, Products,Des produits
+261,"""product.create.title.create"": ""Create"",",product.create.title.create, Create,Créer
+262,"""product.create.title.update"": ""Update"",",product.create.title.update, Update,Mettre à jour
+263,"""product.create.success.message"": ""The product was created!"",",product.create.success.message, The product was created!,Le produit a été créé !
+264,"""product.bread.root"": ""Products"",",product.bread.root, Products,Des produits
+265,"""product.create.card.article.info"": ""Article info"",",product.create.card.article.info, Article info,Informations sur l'article
+266,"""product.create.card.article.create.btn"": ""Create Article"",",product.create.card.article.create.btn, Create Article,Créer un article
+267,"""product.create.card.article.category"": ""Article category"",",product.create.card.article.category, Article category,Catégorie d'articles
+268,"""product.create.card.article.category.validation"": ""Please select the article category!"",",product.create.card.article.category.validation, Please select the article category!,Veuillez sélectionner la catégorie d'articles !
+269,"""product.create.card.article.item"": ""Article"",",product.create.card.article.item, Article,Article
+270,"""product.create.card.article.item.validation"": ""Please select the article!"",",product.create.card.article.item.validation, Please select the article!,Veuillez sélectionner l'article !
+271,"""product.create.card.basic.info"": ""Product info"",",product.create.card.basic.info, Product info,Information sur le produit
+272,"""product.create.card.media"": ""Media"",",product.create.card.media, Media,Médias
+273,"""product.create.tabs.product"": ""Products"",",product.create.tabs.product, Products,Des produits
+274,"""product.create.tabs.article"": ""Article"",",product.create.tabs.article, Article,Article
+275,"""product.create.images"": ""Images"",",product.create.images, Images,Images
+276,"""product.create.texture"": ""Texture"",",product.create.texture, Texture,Texture
+277,"""product.create.glb.file"": ""3D model"",",product.create.glb.file, 3D model,modèle 3D
+278,"""product.table.columns.article"": ""Article"",",product.table.columns.article, Article,Article
+279,"""product.table.columns.barcode"": ""Barcode"",",product.table.columns.barcode, Barcode,code à barre
+280,"""product.table.columns.price"": ""Price"",",product.table.columns.price, Price,Prix
+281,"""product.table.columns.isActive"": ""Is active"",",product.table.columns.isActive, Is active,C'est actif
+282,"""product.table.columns.isActive.active"": ""Active"",",product.table.columns.isActive.active, Active,actif
+283,"""product.table.columns.isActive.inactive"": ""Inactive"",",product.table.columns.isActive.inactive, Inactive,Inactif
+284,"""product.table.columns.action"": ""Action"",",product.table.columns.action, Action,action
+285,"""product.create.article.info.title"": ""Basic article info"",",product.create.article.info.title, Basic article info,Info de base de l'article
+286,"""product.create.article.info.category.type"": ""Category Type"",",product.create.article.info.category.type, Category Type,Type de catégorie
+287,"""product.create.article.info.category"": ""Category"",",product.create.article.info.category, Category,Catégorie
+288,"""product.create.article.info.description"": ""Name"",",product.create.article.info.description, Name,Nom
+289,"""product.create.article.card.basic.info"": ""Article info"",",product.create.article.card.basic.info, Article info,Informations sur l'article
+290,"""product.create.article.card.media"": ""Media"",",product.create.article.card.media, Media,Médias
+291,"""product.create.article.name"": ""Name"",",product.create.article.name, Name,Nom
+292,"""product.create.article.name.validation"": ""Please enter the article name!"",",product.create.article.name.validation, Please enter the article name!,Veuillez entrer le nom de l'article !
+293,"""product.create.article.description"": ""Description"",",product.create.article.description, Description,La description
+294,"""product.create.article.descriptionEn"": ""Description en"",",product.create.article.descriptionEn, Description en,Description en
+295,"""product.create.article.descriptionFr"": ""Description fr"",",product.create.article.descriptionFr, Description fr,Description FR
+296,"""product.create.article.description.validation"": ""Please enter the article description!"",",product.create.article.description.validation, Please enter the article description!,Veuillez entrer la description de l'article!
+297,"""product.create.article.images"": ""Images"",",product.create.article.images, Images,Images
+298,"""product.create.article.products.list"": ""Products"",",product.create.article.products.list, Products,Des produits
+299,"""product.create.card.code"": ""Product #"",",product.create.card.code, Product #,Produit #
+300,"""product.create.card.code.validation"": ""Please enter the product code!"",",product.create.card.code.validation, Please enter the product code!,Veuillez entrer le code de produit!
+301,"""product.create.card.price"": ""Price"",",product.create.card.price, Price,Prix
+302,"""product.create.card.price.validation"": ""Please enter the product price!"",",product.create.card.price.validation, Please enter the product price!,S'il vous plaît entrer le prix du produit!
+303,"""product.create.card.article.create.title"": ""New article"",",product.create.card.article.create.title, New article,Nouvel article
+304,"""product.create.card.article.cancel.btn"": ""Cancel create article"",",product.create.card.article.cancel.btn, Cancel create article,Annuler Créer un article
+305,"""product.create.card.article.save.btn"": ""Save article"",",product.create.card.article.save.btn, Save article,Enregistrer l'article
+306,"""product.create.card.article.notification.create"": ""Article was created"",",product.create.card.article.notification.create, Article was created,L'article a été créé
+307,"""category.title"": ""Categories"",",category.title, Categories,Catégories
+308,"""category.create.type"": ""Type"",",category.create.type, Type,Taper
+309,"""category.create.name"": ""Name"",",category.create.name, Name,Nom
+310,"""category.create.name.validation"": ""Please enter the category name!"",",category.create.name.validation, Please enter the category name!,Veuillez entrer le nom de la catégorie !
+311,"""category.create.notification.create"": ""The article category was created!"",",category.create.notification.create, The article category was created!,La catégorie d'articles a été créée !
+312,"""consumers.title"": ""Consumers"",",consumers.title, Consumers,Acquéreurs
+313,"""consumers.bread.root"": ""Consumers"",",consumers.bread.root, Consumers,Acquéreurs
+314,"""consumers.table.columns.email"": ""Email"",",consumers.table.columns.email, Email,E-mail
+315,"""consumers.table.columns.phone"": ""Phone"",",consumers.table.columns.phone, Phone,Téléphone
+316,"""consumers.table.columns.name"": ""Name"",",consumers.table.columns.name, Name,Nom
+317,"""consumers.table.columns.project"": ""Project"",",consumers.table.columns.project, Project,Projet
+318,"""consumers.table.columns.property"": ""Property"",",consumers.table.columns.property, Property,Propriété
+319,"""consumers.table.columns.isConfirmed"": ""Confirm"",",consumers.table.columns.isConfirmed, Confirm,Confirmer
+320,"""consumers.table.columns.isConfirmed.confirmed"": ""Confirmed"",",consumers.table.columns.isConfirmed.confirmed, Confirmed,Confirmé
+321,"""consumers.table.columns.isConfirmed.unconfirmed"": ""Unconfirmed"",",consumers.table.columns.isConfirmed.unconfirmed, Unconfirmed,Non confirmé
+322,"""consumers.table.columns.confirmedDate"": ""Confirmation date"",",consumers.table.columns.confirmedDate, Confirmation date,Date de confirmation
+323,"""consumers.table.columns.failedLoginAttempts"": ""Failed login attempts"",",consumers.table.columns.failedLoginAttempts, Failed login attempts,Échec des tentatives de connexion
+324,"""consumers.table.columns.lockedDate"": ""Locked date"",",consumers.table.columns.lockedDate, Locked date,Date verrouillée
+325,"""consumers.table.columns.lastLoginDate"": ""Last login date"",",consumers.table.columns.lastLoginDate, Last login date,Date de la dernière connexion
+326,"""consumers.table.columns.action"": ""Action"",",consumers.table.columns.action, Action,action
+327,"""consumers.table.columns.action.resend"": ""Resend"",",consumers.table.columns.action.resend, Resend,Renvoyer
+328,"""consumers.table.columns.action.resend.title"": ""Resend confirmation email"",",consumers.table.columns.action.resend.title, Resend confirmation email,Renvoyer un courriel de confirmation
+329,"""consumers.table.columns.action.resend.success"": ""The confirmation email has been resent"",",consumers.table.columns.action.resend.success, The confirmation email has been resent,L'email de confirmation a été résolu
+330,"""consumers.table.columns.manage"": ""manage"",",consumers.table.columns.manage, manage,faire en sorte
+331,"""consumers.create.email"": ""Email"",",consumers.create.email, Email,E-mail
+332,"""consumers.create.phone"": ""Phone"",",consumers.create.phone, Phone,Téléphone
+333,"""consumers.create.name"": ""Name"",",consumers.create.name, Name,Nom
+334,"""consumers.create.surname"": ""Surname"",",consumers.create.surname, Surname,Nom de famille
+335,"""consumers.create.isConfirmed.label"": ""Is confirmed"",",consumers.create.isConfirmed.label, Is confirmed,Est confirmé
+336,"""consumers.create.isConfirmed.value"": ""Confirmed"",",consumers.create.isConfirmed.value, Confirmed,Confirmé
+337,"""consumers.create.isLocked.label"": ""Is locked"",",consumers.create.isLocked.label, Is locked,Est verrouillé
+338,"""consumers.create.isLocked.value"": ""Locked"",",consumers.create.isLocked.value, Locked,Fermé à clé
+339,"""consumers.create.title.create"": ""Create consumer"",",consumers.create.title.create, Create consumer,Créer des consommateurs
+340,"""consumers.create.title.update"": ""Update consumer"",",consumers.create.title.update, Update consumer,Mettre à jour le consommateur
+341,"""consumers.create.add.project"": ""+ Add Project"",",consumers.create.add.project, + Add Project,+ Ajouter un projet
+342,"""consumers.create.error.no.property"": ""Consumer must have a property"",",consumers.create.error.no.property, Consumer must have a property,Le consommateur doit avoir une propriété
+343,"""consumers.locked.error"": ""fermé à clé"",",consumers.locked.error, fermé à clé,Fermé à Clé
+344,"""consumers.password.error"": ""passe expiré"",",consumers.password.error, passe expiré,mot de passe expiré
+345,"""consumers.online"": ""Online"",",consumers.online, Online,En ligne
+346,"""consumers.offline"": ""Offline"",",consumers.offline, Offline,Hors ligne
+347,"""consumers.desactiveted"": ""Désactiver"",",consumers.desactiveted, Désactiver,Désactiver
+348,"""consumers.choose.project"": ""Choose project"",",consumers.choose.project, Choose project,Choisir un projet
+349,"""consumers.choose.property"": ""Choose property"",",consumers.choose.property, Choose property,Choisissez une propriété
+350,"""consumers.manage.tabs.calendar"": ""Calendar and progress"",",consumers.manage.tabs.calendar, Calendar and progress,Calendrier et progrès
+351,"""consumers.manage.tabs.budget"": ""Budget control"",",consumers.manage.tabs.budget, Budget control,Contrôle budgétaire
+352,"""consumers.manage.tabs.gallery"": ""Gallery"",",consumers.manage.tabs.gallery, Gallery,Galerie
+353,"""consumers.manage.tabs.documents"": ""Documents"",",consumers.manage.tabs.documents, Documents,Documents
+354,"""consumers.manage.tabs.details.project"": ""Property Details"",",consumers.manage.tabs.details.project, Property Details,Détails Projet
+355,"""consumers.modal.cancel.btn"": ""Cancel"",",consumers.modal.cancel.btn, Cancel,Annuler
+356,"""consumers.modal.import.btn"": ""Import"",",consumers.modal.import.btn, Import,Importer
+357,"""consumers.modal.upload.file.btn"": ""Upload file"",",consumers.modal.upload.file.btn, Upload file,Télécharger un fichier
+358,"""consumers.control.all.projects"": ""All projects"",",consumers.control.all.projects, All projects,Tous les projets
+359,"""consumers.control.download.template"": ""Download template"",",consumers.control.download.template, Download template,Télécharger le modèle
+360,"""consumers.control.search.placeholder"": ""Search by login or email"",",consumers.control.search.placeholder, Search by login or email,Recherche par login ou email
+361,"""consumers.notification.property.update"": ""Property was updated"",",consumers.notification.property.update, Property was updated,La propriété a été mise à jour
+362,"""consumers.success.import"": ""Import successful"",",consumers.success.import, Import successful,Importation réussie
+363,"""consumers.create.card.user.lastName"": ""Last name *"",",consumers.create.card.user.lastName, Last name *,Nom de famille *
+364,"""consumers.create.card.user.firstName"": ""Name *"",",consumers.create.card.user.firstName, Name *,Nom *
+365,"""consumers.create.card.user.phone"": ""Cell phone *"",",consumers.create.card.user.phone, Cell phone *,Téléphone portable *
+366,"""consumers.create.card.user.email"": ""E-mail *"",",consumers.create.card.user.email, E-mail *,E-mail *
+367,"""requests.title"": ""Consumer requests"",",requests.title, Consumer requests,Demandes de consommateur
+368,"""requests.bread.root"": ""Requests"",",requests.bread.root, Requests,Demandes
+369,"""requests.btn.pdf"": ""Print PDF"",",requests.btn.pdf, Print PDF,Imprimer PDF
+370,"""requests.table.columns.consumer"": ""Consumer"",",requests.table.columns.consumer, Consumer,Consommateur
+371,"""requests.table.columns.phone"": ""Phone"",",requests.table.columns.phone, Phone,Téléphoner
+372,"""requests.table.columns.status"": ""Status"",",requests.table.columns.status, Status,Statut
+373,"""requests.table.columns.createdDate"": ""Date"",",requests.table.columns.createdDate, Date,Date
+374,"""requests.table.columns.action"": ""Action"",",requests.table.columns.action, Action,action
+375,"""requests.table.columns.btn.status"": ""Set status"",",requests.table.columns.btn.status, Set status,Définir le statut
+376,"""requests.nested.table.columns.product"": ""Product"",",requests.nested.table.columns.product, Product,Produit
+377,"""requests.nested.table.columns.spaceObject"": ""Object"",",requests.nested.table.columns.spaceObject, Object,Objet
+378,"""requests.nested.table.columns.space"": ""Space"",",requests.nested.table.columns.space, Space,Espace
+379,"""requests.nested.table.columns.variant"": ""Variant"",",requests.nested.table.columns.variant, Variant,Une variante
+380,"""requests.nested.table.columns.level"": ""Level"",",requests.nested.table.columns.level, Level,Niveau
+381,"""requests.nested.table.columns.typology"": ""Typology"",",requests.nested.table.columns.typology, Typology,Typologie
+382,"""requests.view.card.info.status"": ""Status"",",requests.view.card.info.status, Status,Statut
+383,"""requests.view.card.info.property"": ""Property"",",requests.view.card.info.property, Property,Propriété
+384,"""requests.view.card.info.property.type"": ""Type"",",requests.view.card.info.property.type, Type,Taper
+385,"""requests.view.card.info.typology"": ""Typology"",",requests.view.card.info.typology, Typology,Typologie
+386,"""requests.view.card.options.title"": ""Options"",",requests.view.card.options.title, Options,Option
+387,"""requests.status.confirm.text"": ""Do you want to change the status of the request?"",",requests.status.confirm.text, Do you want to change the status of the request?,Voulez-vous changer le statut de la demande?
+388,"""requests.status.updated"": ""Request status changed"",",requests.status.updated, Request status changed,Statut de demande modifié
+389,"""calendar.progress.title"": ""Progress"",",calendar.progress.title, Progress,Progrès
+390,"""calendar.calendar.title"": ""Work Calendar"",",calendar.calendar.title, Work Calendar,Calendrier du travail effectué
+391,"""calendar.add.update.btn"": ""Send"",",calendar.add.update.btn, Send,Envoyer
+392,"""calendar.title"": ""Calendar"",",calendar.title, Calendar,Calendrier
+393,"""calendar.status.title"": ""STATUS"",",calendar.status.title, STATUS,STATUT
+394,"""calendar.data.placeholder"": ""Set deadline"",",calendar.data.placeholder, Set deadline,Fixer la date limite
+395,"""calendar.update.create.notification"": ""Update created"",",calendar.update.create.notification, Update created,Mise à jour créée
+396,"""calendar.timeline.update.notification"": ""Timeline was updated"",",calendar.timeline.update.notification, Timeline was updated,La chronologie a été mise à jour
+397,"""calendar.step"": ""STEP"",",calendar.step, STEP,ÉTAPE
+398,"""calendar.indicative.deadline"": ""INDICATIVE DEADLINE"",",calendar.indicative.deadline, INDICATIVE DEADLINE,Date limite indicative
+399,"""calendar.no.deadline"": ""No deadline"",",calendar.no.deadline, No deadline,Aucune date limite
+400,"""calendar.update.placeholder"": ""Write your update"",",calendar.update.placeholder, Write your update,Rédigez votre mise à jour
+401,"""calendar.update.title"": ""NEW UPDATE FOR"",",calendar.update.title, NEW UPDATE FOR,Nouvelle mise à jour pour
+402,"""calendar.arrach.file"": ""attach file"",",calendar.arrach.file, attach file,Pièce jointe
+403,"""budget.total.title"": ""Total initial budget"",",budget.total.title, Total initial budget,Budget initial total
+404,"""budget.price.remaining"": ""Remaining"",",budget.price.remaining, Remaining,Restant
+405,"""budget.price.tospent"": ""To be spent"",",budget.price.tospent, To be spent,Être dépensé
+406,"""budget.price.spent"": ""Spent"",",budget.price.spent, Spent,Dépensé
+407,"""budget.table.column.contact"": ""Payment contact"",",budget.table.column.contact, Payment contact,Contact de paiement
+408,"""budget.table.sum"": ""Sum"",",budget.table.sum, Sum,Somme
+409,"""budget.table.sum.vat"": ""Sum with VAT"",",budget.table.sum.vat, Sum with VAT,Somme avec la TVA
+410,"""budget.table.date"": ""Payment date"",",budget.table.date, Payment date,Date de paiement
+411,"""budget.table.status"": ""Status"",",budget.table.status, Status,Statut
+412,"""budget.table.action"": ""Action"",",budget.table.action, Action,action
+413,"""budget.table.edit"": ""Edit"",",budget.table.edit, Edit,Éditer
+414,"""budget.table.download"": ""Download"",",budget.table.download, Download,Télécharger
+415,"""budget.table.upload.invoce"": ""+ Upload"",",budget.table.upload.invoce, + Upload,+ Télécharger un nouveau devis
+416,"""budget.currency"": ""CHF"",",budget.currency, CHF,CHF
+417,"""budget.modal.cancel.btn"": ""CANCEL"",",budget.modal.cancel.btn, CANCEL,ANNULER
+418,"""budget.modal.save.btn"": ""SAVE"",",budget.modal.save.btn, SAVE,SAUVEGARDER
+419,"""budget.modal.delete.btn"": ""DELETE"",",budget.modal.delete.btn, DELETE,EFFACER
+420,"""budget.modal.confirm.delete.message"": ""Are you sure you want to delete invoice №"",",budget.modal.confirm.delete.message, Are you sure you want to delete invoice №,Êtes-vous sûr de vouloir supprimer la facturation №
+421,"""budget.modal.confirm.delete.update"": ""Are you sure you want to delete this event?"",",budget.modal.confirm.delete.update, Are you sure you want to delete this event?,Êtes-vous sûr de vouloir supprimer cet événement ?
+422,"""budget.modal.delete.success.message"": ""Invoice was deleted"",",budget.modal.delete.success.message, Invoice was deleted,La facture a été supprimée
+423,"""budget.modal.update.success"": ""Invoice was updated"",",budget.modal.update.success, Invoice was updated,La facture a été mise à jour
+424,"""budget.modal.update.delete.success"": ""Invoice was deleted"",",budget.modal.update.delete.success, Invoice was deleted,La facture a été supprimée
+425,"""budget.modal.upload.btn.title"": ""Upload file"",",budget.modal.upload.btn.title, Upload file,Charger un fichier
+426,"""budget.error.format.total.number"": ""Total budget must be a number"",",budget.error.format.total.number, Total budget must be a number,Le budget total doit être un nombre
+427,"""budget.success.total.update"": ""Total budget was updated"",",budget.success.total.update, Total budget was updated,Le budget total a été mis à jour
+428,"""budget.form.number"": ""Number *"",",budget.form.number, Number *,Numéro*
+429,"""budget.form.status"": ""Status *"",",budget.form.status, Status *,Statut *
+430,"""budget.form.payment.contact"": "" Payment Contact *"",",budget.form.payment.contact,  Payment Contact *, Contact de paiement *
+431,"""budget.form.sum"": ""Sum *"",",budget.form.sum, Sum *,Montant *
+432,"""budget.form.sum.with.vat"": ""Sum with VAT *"",",budget.form.sum.with.vat, Sum with VAT *,Montant avec TVA *
+433,"""budget.form.date"": ""Payment date *"",",budget.form.date, Payment date *,Date de paiement *
+434,"""budget.form.currentDate"": ""Date *"",",budget.form.currentDate, Date *,Date *
+435,"""budget.control.filter.status.title"": ""Status"",",budget.control.filter.status.title, Status,Statut
+436,"""budget.control.select.all"": ""All statuses"",",budget.control.select.all, All statuses,Tous les statuts
+437,"""budget.search.number.placeholder"": ""search by number"",",budget.search.number.placeholder, search by number,Recherche par numéro
+438,"""project.details.client.info.title"": ""Client information"",",project.details.client.info.title, Client information,Informations client
+439,"""project.details.client.info.phone"": ""Cell phone"",",project.details.client.info.phone, Cell phone,Téléphone portable
+440,"""project.details.client.info.email"": ""E-mail"",",project.details.client.info.email, E-mail,E-mail
+441,"""project.details.project.title"": ""Project information"",",project.details.project.title, Project information,Renseignements sur le projet
+442,"""project.details.floor.plan"": ""FLOOR PLAN"",",project.details.floor.plan, FLOOR PLAN,Plan d'étage
+443,"""project.details.table.project"": ""Project"",",project.details.table.project, Project,Projet
+444,"""project.details.table.property"": ""Property"",",project.details.table.property, Property,Propriété
+445,"""project.details.table.type"": ""Type"",",project.details.table.type, Type,Taper
+446,"""project.details.table.rooms"": ""Pièces"",",project.details.table.rooms, Pièces,Pièces
+447,"""project.details.table.price"": ""Prix"",",project.details.table.price, Prix,Prix
+448,"""project.details.table.orientation"": ""Orientation"",",project.details.table.orientation, Orientation,Orientation
+449,"""project.details.table.floor.height"": ""Hauteur de l'étage"",",project.details.table.floor.height, Hauteur de l'étage,Hauteeur de l'Étage
+450,"""project.details.table.total.height"": ""Hauteur totale du bâtiment"",",project.details.table.total.height, Hauteur totale du bâtiment,Hautetur Totale du bâtiment
+451,"""project.details.table.surface"": ""Surface"",",project.details.table.surface, Surface,Surface
+452,"""manage.faq.columns.question"": ""Question"",",manage.faq.columns.question, Question,Question
+453,"""manage.faq.columns.topic"": ""Topic"",",manage.faq.columns.topic, Topic,Sujet
+454,"""manage.faq.columns.statuses"": ""Statuses"",",manage.faq.columns.statuses, Statuses,Statut
+455,"""manage.faq.columns.statuses.published"": ""Published"",",manage.faq.columns.statuses.published, Published,Publié
+456,"""manage.faq.columns.statuses.draft"": ""Draft"",",manage.faq.columns.statuses.draft, Draft,Brouillon
+457,"""manage.faq.select.topic"": ""select topic"",",manage.faq.select.topic, select topic,Sélectionnez Sujet
+458,"""manage.faq.unpublish.btn"": ""Unpublish"",",manage.faq.unpublish.btn, Unpublish,Non publié
+459,"""manage.faq.publish.btn"": ""Publish"",",manage.faq.publish.btn, Publish,Publier
+460,"""manage.faq.answer"": ""Answer"",",manage.faq.answer, Answer,Réponse
+461,"""manage.modal.confirm.delete.question"": ""Are you sure you want to delete question №"",",manage.modal.confirm.delete.question, Are you sure you want to delete question №,Êtes-vous sûr de vouloir supprimer la question №
+462,"""manage.modal.success.delete.question"": ""Question was deleted"",",manage.modal.success.delete.question, Question was deleted,La question a été supprimée
+463,"""manage.control.topics.control.btn"": ""Topics control"",",manage.control.topics.control.btn, Topics control,Contrôle des sujets
+464,"""manage.success.updated.question"": ""Question was updated"",",manage.success.updated.question, Question was updated,Question a été mise à jour
+465,"""manage.success.created.question"": ""Question was created"",",manage.success.created.question, Question was created,Question a été créée
+466,"""manage.success.updated.topic"": ""Topic was updated"",",manage.success.updated.topic, Topic was updated,Le sujet a été mis à jour
+467,"""manage.success.created.topic"": ""Topic was created"",",manage.success.created.topic, Topic was created,Le sujet a été créé
+468,"""manage.modal.success.delete.topic"": ""Topic was deleted"",",manage.modal.success.delete.topic, Topic was deleted,Le sujet a été supprimé
+469,"""manage.modal.confirm.delete.topic"": ""Are you sure you want to delete topic №"",",manage.modal.confirm.delete.topic, Are you sure you want to delete topic №,Êtes-vous sûr de vouloir supprimer le sujet №
+470,"""manage.topic.form.en.title"": ""Topic EN"",",manage.topic.form.en.title, Topic EN,Sujet en
+471,"""manage.topic.form.fr.title"": ""Topic FR"",",manage.topic.form.fr.title, Topic FR,Sujet FR
+472,"""manage.topic.update.title"": ""Update topic"",",manage.topic.update.title, Update topic,Sujet de mise à jour
+473,"""manage.topic.create.title"": ""Create topic"",",manage.topic.create.title, Create topic,Créer un sujet
+474,"""manage.faq.delete.no.items"": ""No items to delete"",",manage.faq.delete.no.items, No items to delete,Aucun article à supprimer
+475,"""manage.faq.delete.success.questions"": ""Questions was deleted"",",manage.faq.delete.success.questions, Questions was deleted,Les questions ont été supprimées
+476,"""manage.faq.delete.confirm.warning"": ""This topic has questions, please select other topics for them"",",manage.faq.delete.confirm.warning, This topic has questions please select other topics for them,"Ce sujet a des questions, veuillez sélectionner d'autres sujets pour les consulter."
+477,"""dashboard.progress.title"": ""Your progress complete on "",",dashboard.progress.title, Your progress complete on ,Vos progrès complètes sur
+478,"""dashboard.total.budget.title"": ""BUDGET"",",dashboard.total.budget.title, BUDGET,BUDGET
+479,"""gallery.upload.images"": ""+ Upload images"",",gallery.upload.images, + Upload images,+ Télécharger des images
+480,"""gallery.modal.upload.btn.title"": ""Upload file"",",gallery.modal.upload.btn.title, Upload file,Charger un fichier
+481,"""gallery.form.date"": ""Date *"",",gallery.form.date, Date *,Date *
+482,"""gallery.modal.cancel.btn"": ""CANCEL"",",gallery.modal.cancel.btn, CANCEL,ANNULER
+483,"""gallery.modal.save.btn"": ""SAVE"",",gallery.modal.save.btn, SAVE,SAUVER
+484,"""gallery.modal.select.btn"": ""Select"",",gallery.modal.select.btn, Select,Sélectionner
+485,"""gallery.modal.delete.btn"": ""DELETE"",",gallery.modal.delete.btn, DELETE,EFFACER
+486,"""gallery.modal.warning"": ""Are you sure you want to delete this image?"",",gallery.modal.warning, Are you sure you want to delete this image?,Êtes-vous sûr de vouloir supprimer cette image?
+487,"""gallery.modal.warning.list"": ""Are you sure you want to delete this images?"",",gallery.modal.warning.list, Are you sure you want to delete this images?,Êtes-vous sûr de vouloir supprimer ces images?
+488,"""gallery.delete.btn"": ""Delete"",",gallery.delete.btn, Delete,Supprimer
+489,"""gallery.modal.deleted.images.success.message"": ""Images was deleted"",",gallery.modal.deleted.images.success.message, Images was deleted,Les images ont été supprimées
+490,"""gallery.modal.deleted.success.message"": ""Image was deleted"",",gallery.modal.deleted.success.message, Image was deleted,L'image a été supprimée
+491,"""gallery.modal.loaded.success.message"": ""Image was loaded"",",gallery.modal.loaded.success.message, Image was loaded,L'image a été chargée
+492,"""gallery.modal.updated.success.message"": ""Image was updated"",",gallery.modal.updated.success.message, Image was updated,L'image a été mise à jour
+493,"""documents.total.title"": ""Number of all documents:"",",documents.total.title, Number of all documents:,Nombre de tous les documents:
+494,"""documents.signed"": ""Signed documents"",",documents.signed, Signed documents,Documents signés
+495,"""documents.pending"": ""Pending documents"",",documents.pending, Pending documents,Documents en attente
+496,"""documents.table.date"": ""Date"",",documents.table.date, Date,Date
+497,"""documents.table.status"": ""Status"",",documents.table.status, Status,Statut
+498,"""documents.table.action"": ""Action"",",documents.table.action, Action,action
+499,"""documents.table.upload.invoce"": ""+ Upload documents"",",documents.table.upload.invoce, + Upload documents,+ Télécharger des documents
+500,"""documents.modal.cancel.btn"": ""CANCEL"",",documents.modal.cancel.btn, CANCEL,ANNULER
+501,"""documents.modal.save.btn"": ""SAVE"",",documents.modal.save.btn, SAVE,SAUVER
+502,"""documents.modal.upload.btn.title"": ""Upload file"",",documents.modal.upload.btn.title, Upload file,Charger un fichier
+503,"""documents.form.name"": ""Name *"",",documents.form.name, Name *,Nom *
+504,"""documents.form.file"": ""Document file*"",",documents.form.file, Document file*,Fichier de document *
+505,"""documents.form.description"": ""Description"",",documents.form.description, Description,La description
+506,"""documents.form.status"": ""Status *"",",documents.form.status, Status *,Statut *
+507,"""documents.form.date"": ""Date *"",",documents.form.date, Date *,Date *
+508,"""documents.control.filter.status.title"": ""Status"",",documents.control.filter.status.title, Status,Statut
+509,"""documents.control.select.all"": ""All statuses"",",documents.control.select.all, All statuses,Tous les statuts
+510,"""documents.search.name.placeholder"": ""search by name"",",documents.search.name.placeholder, search by name,Recherche par nom
+511,"""documents.table.column.name"": ""Name"",",documents.table.column.name, Name,Nom
+512,"""documents.table.column.description"": ""Description"",",documents.table.column.description, Description,La description
+513,"""documents.modal.delete.btn"": ""DELETE"",",documents.modal.delete.btn, DELETE,EFFACER
+514,"""documents.modal.confirm.delete.message"": ""Are you sure you want to delete document"",",documents.modal.confirm.delete.message, Are you sure you want to delete document,Êtes-vous sûr de vouloir supprimer le document
+515,"""documents.modal.delete.success.message"": ""Document was deleted"",",documents.modal.delete.success.message, Document was deleted,Document a été supprimé
+516,"""documents.modal.updated.success.message"": ""Document was updated"",",documents.modal.updated.success.message, Document was updated,Le document a été mis à jour
+517,"""documents.modal.created.success.message"": ""Document was created"",",documents.modal.created.success.message, Document was created,Le document a été créé
+518,"""documents.status.pending"": ""pending"",",documents.status.pending, pending,en attente
+519,"""documents.status.signed"": ""signed"",",documents.status.signed, signed,signé
+520,"""faq.search.placeholder"": ""Search, find any question you want to ask..."",",faq.search.placeholder, Search find any question you want to ask,Cherchez n'importe quelle question que vous voulez poser
+521,"""faq.topic.support"": ""Can't find the answer to your question? You can write your question to technical support"",",faq.topic.support, Can't find the answer to your question? You can write your question to technical support,Vous ne pouvez pas trouver la réponse à votre question? Vous pouvez écrire votre question au support technique
+522,"""faq.support.email"": ""support@cmp.com"",",faq.support.email, support@cmpcom,Support @ CMPCOM
+523,"""faq.seacrh.title"": ""Searching results"",",faq.seacrh.title, Searching results,Résultats de la recherche
+524,"""faq.no.search.match"": ""Sorry, no search matches. You can write your question to technical support"",",faq.no.search.match, Sorry no search matches You can write your question to technical support,"Désolé, aucune recherche ne correspond. Vous pouvez écrire votre question au support technique."
+525,"""register.password.validation.required"": ""Please repeat your password"",",register.password.validation.required, Please repeat your password,S'il vous plaît répéter votre mot de passe
+526,"""register.password.validation.min"": ""Minimum length 6 symbol"",",register.password.validation.min, Minimum length 6 symbol,Longueur minimale 6 Symbole
+527,"""register.password.validation.pattern"": ""Password must include at least 1 number, 1 uppercase letter and 1 lowercase letter"",",register.password.validation.pattern, Password must include at least 1 number 1 uppercase letter and 1 lowercase letter,Le mot de passe doit inclure au moins 1 lettre 1 chiffre 1 lettre majuscule et 1 lettre minuscule
+528,"""my.profile.success.update"": ""Your profile was updated"",",my.profile.success.update, Your profile was updated,Votre profil a été mis à jour
+529,"""no.property.title"": ""You do not have property, please contact your broker"",",no.property.title, You do not have property please contact your broker,"Vous n'avez pas de propriété, veuillez contacter votre courtier"
+530,"""projects.create.tab.general.info"": ""General Info"",",projects.create.tab.general.info, General Info, Informations générales
+531,"""projects.create.tab.payment.info"": ""Payment Info"",",projects.create.tab.payment.info, Payment Info, Information de paiement
+532,"""projects.create.company.name"": ""Company name*"",",projects.create.company.name, Company name*, Nom de la compagnie*
+533,"""projects.create.account.holder"": ""Account holder*"",",projects.create.account.holder, Account holder*, Titulaire de compte*
+534,"""projects.create.account.street"": ""Street/Number*"",",projects.create.account.street, Street/Number*, Numéro de rue*
+535,"""projects.create.bank.name"": ""Bank name*"",",projects.create.bank.name, Bank name*, Nom de banque*
+536,"""projects.create.bank.country"": ""Country of bank*"",",projects.create.bank.country, Country of bank*, Pays de banque *
+537,"""projects.create.zip"": ""ZIP*"",",projects.create.zip, ZIP*, ZIP *: FRANÇAIS*
+538,"""projects.create.city"": ""City*"",",projects.create.city, City*, Ville*
+539,"""projects.create.state"": ""State*"",",projects.create.state, State*, État*
+540,"""projects.create.country"": ""Country*"",",projects.create.country, Country*, Pays*
+541,"""projects.create.iban"": ""IBAN*"",",projects.create.iban, IBAN*, IBAN *
+542,"""projects.create.phone.number"": ""Phone number*"",",projects.create.phone.number, Phone number*, Numéro de téléphone*
+543,"""projects.create.email"": ""Email address*"",",projects.create.email, Email address*, Adresse e-mail*
+544,"""projects.create.tax.id"": ""Tax ID*"",",projects.create.tax.id, Tax ID*, ID TTC *
+545,"""projects.create.vat.id"": ""VAT ID*"",",projects.create.vat.id, VAT ID*, ID de TVA *
+546,"""projects.create.swift.bic"": ""SWIFT/BIC*"",",projects.create.swift.bic, SWIFT/BIC*, SWIFT / BIC *
+547,"""budget.upload.overview.title"": ""Overview"",",budget.upload.overview.title, Overview, Aperçu
+548,"""budget.upload.overview.fields.title"": ""MANDATORY FIELDS"",",budget.upload.overview.fields.title, MANDATORY FIELDS, CHAMPS OBLIGATOIRES
+549,"""budget.upload.overview.fields.client"": ""Client info"",",budget.upload.overview.fields.client, Client info, Informations client
+550,"""budget.upload.overview.fields.id"": ""Tax ID and VAT ID"",",budget.upload.overview.fields.id, Tax ID and VAT ID, ID de taxe et identifiant de TVA
+551,"""budget.upload.overview.fields.invoice"": ""Invoice ID"",",budget.upload.overview.fields.invoice, Invoice ID, Invoice ID
+552,"""budget.upload.overview.fields.date"": ""Invoice date"",",budget.upload.overview.fields.date, Invoice date, Date de facturation
+553,"""budget.upload.overview.fields.items"": ""Invoice items"",",budget.upload.overview.fields.items, Invoice items, Articles de facturation
+554,"""budget.upload.overview.fields.vat"": ""VAT"",",budget.upload.overview.fields.vat, VAT, T.V.A.
+555,"""budget.upload.overview.fields.details"": ""Payment details"",",budget.upload.overview.fields.details, Payment details, Détails de paiement
+556,"""budget.upload.invoice.title"": ""Invoice"",",budget.upload.invoice.title, Invoice, Facture d'achat
+557,"""budget.invoice.created"": ""Invoice was created"",",budget.invoice.created, Invoice was created, La facture a été créée
+558,"""budget.title.confirmation"": ""Confirmation"",",budget.title.confirmation, Confirmation, Confirmation
+559,"""budget.confirm.warning"": ""Please, note that the invoice it will be saved without the possibility of further edit"",",budget.confirm.warning, Please note that the invoice it will be saved without the possibility of further edit, Veuillez noter que la facture il sera enregistrée sans possibilité de modifier davantage.
+560,"""budget.invoice.column.pos"": ""pos"",",budget.invoice.column.pos, pos, point de vue
+561,"""budget.invoice.column.task.name"": ""Task Name"",",budget.invoice.column.task.name, Task Name, Nom de la tâche
+562,"""budget.invoice.column.duration"": ""Duration"",",budget.invoice.column.duration, Duration, Durée
+563,"""budget.invoice.column.quantity"": ""Quantity"",",budget.invoice.column.quantity, Quantity, Quantité
+564,"""budget.invoice.column.total"": ""Total"",",budget.invoice.column.total, Total, Le total
+565,"""budget.invoice.form.optional"": ""Add introduction text (optional)"",",budget.invoice.form.optional, Add introduction text (optional), Ajouter un texte d'introduction (facultatif)
+566,"""budget.invoice.form.add.item"": ""Add item"",",budget.invoice.form.add.item, Add item, Ajouter un item
+567,"""budget.invoice.form.subtotal"": ""Subtotal:"",",budget.invoice.form.subtotal, Subtotal:, Total:
+568,"""budget.invoice.form.total"": ""Total:"",",budget.invoice.form.total, Total:, Le total:
+569,"""budget.invoice.form.deadline"": ""Add payment deadline"",",budget.invoice.form.deadline, Add payment deadline, Ajouter un délai de paiement
+570,"""budget.invoice.form.concluding"": ""Add concluding text (optional)"",",budget.invoice.form.concluding, Add concluding text (optional), Ajouter un texte final (facultatif)
+571,"""budget.invoice.form.bank.acc"": ""Bank account"",",budget.invoice.form.bank.acc, Bank account, compte bancaire
+572,"""consumers.not.fill.payment"": ""Please, fill in Payment info"",",consumers.not.fill.payment, Please fill in Payment info, S'il vous plaît remplir les informations de paiement
+573,"""quotes.confirm.created"": ""Quote was created"",",quotes.confirm.created, Quote was created, La citation a été créée
+574,"""quotes.confirm.update"": ""Quote was updated"",",quotes.confirm.update, Quote was updated, La citation a été mise à jour
+575,"""quotes.confirm.warning"": ""Please, note that the quote it will be saved without the possibility of further edit"",",quotes.confirm.warning, Please note that the quote it will be saved without the possibility of further edit, Veuillez noter que la citation sera enregistrée sans possibilité de modifier davantage.
+576,"""quotes.upload.invoice.title"": ""Quote"",",quotes.upload.invoice.title, Quote, Devis
+577,"""quotes.upload.overview.fields.quote"": ""Quote ID"",",quotes.upload.overview.fields.quote, Quote ID, ID de citation
+578,"""quotes.upload.overview.fields.date"": ""Quote date"",",quotes.upload.overview.fields.date, Quote date, Date de citation
+579,"""quotes.modal.delete.success.message"": ""Quote was deleted"",",quotes.modal.delete.success.message, Quote was deleted, La citation a été supprimée
+580,"""quotes.modal.confirm.delete.message"": ""Are you sure you want to delete quote №"",",quotes.modal.confirm.delete.message, Are you sure you want to delete quote №, Êtes-vous sûr de vouloir supprimer la citation oite №
+581,"""consumers.manage.tabs.quotes"": ""Quotes"",",consumers.manage.tabs.quotes, Quotes, Devis
+582,"""calendar.update.no.items.notification"": ""Please, fill in update"",",calendar.update.no.items.notification, Please fill in update, S'il vous plaît remplir la mise à jour
+583,"""budget.modal.arhive.btn"": ""ARCHIVE"",",budget.modal.arhive.btn, ARCHIVE, ARCHIVER
+584,"""budget.control.create.btn"": ""+ Create"",",budget.control.create.btn, + Create, + Créer
+585,"""budget.modal.confirm.archived.message"": ""Are you sure you want to archive invoice №"",",budget.modal.confirm.archived.message, Are you sure you want to archive invoice №, Êtes-vous sûr de vouloir archiver la facturation №
+586,"""budget.modal.archived.success.message"": ""Invoice was arhived"",",budget.modal.archived.success.message, Invoice was arhived, La facture a été arhivée
+587,"""budget.form.description"": ""Description"",",budget.form.description, Description, La description
+588,"""budget.table.paid.at"": ""Paid At"",",budget.table.paid.at, Paid At, Payé à
+589,"""manage.faq.control.select.placeholder"": ""All topics"",",manage.faq.control.select.placeholder, All topics, Tous les sujets
+590,"""manage.faq.add.new.topic.select"": ""+ add new"",",manage.faq.add.new.topic.select, + add new, + Ajouter nouveau
+591,"""dashboard.units.sold"": ""Total units sold"",",dashboard.units.sold, Total units sold, Total des unités vendues
+592,"""dashboard.units.booked"": ""Total units booked"",",dashboard.units.booked, Total units booked, Total des unités réservées
+593,"""dashboard.acquirers.title"": ""Acquirers"",",dashboard.acquirers.title, Acquirers, Acquéreurs
+594,"""dashboard.acquirers.btn"": ""See all Acquirers"",",dashboard.acquirers.btn, See all Acquirers, Voir tous les acquéreurs
+595,"""property.create.modal.title"": ""Select a project for create new property*"",",property.create.modal.title, Select a project for create new property*, Sélectionnez un projet pour créer une nouvelle propriété *
+596,"""property.empty.table.placeholder"": ""No data, please, select project"",",property.empty.table.placeholder, No data please select project, Pas de données s'il vous plaît sélectionner le projet
+597,"""properties.placeholder.change.project"": ""Project"",",properties.placeholder.change.project, Project, Projet
+598,"""properties.label.change.project"": ""Select project"",",properties.label.change.project, Select project, Sélectionner un projet
+599,"""properties.steps.title"": ""Construction stages"",",properties.steps.title, Construction stages, Étapes de la construction
+600,"""properties.create.copy.to"": ""Copy this stages to"",",properties.create.copy.to, Copy this stages to, Copier ces étapes à
+601,"""properties.length.rule"": ""Length must be less than 40 symbols"",",properties.length.rule, Length must be less than 40 symbols, La longueur doit être inférieure à 40 symboles
+602,"""properties.cascader.placeholder.nowhere"": ""nowhere"",",properties.cascader.placeholder.nowhere, nowhere, nulle part
+603,"""consumers.create.user.payment.street"": ""Street/Number *"",",consumers.create.user.payment.street, Street/Number *, Numéro de rue *
+604,"""consumers.create.user.payment.zip"": ""ZIP *"",",consumers.create.user.payment.zip, ZIP *, ZIP *: FRANÇAIS *
+605,"""consumers.create.user.payment.city"": ""City *"",",consumers.create.user.payment.city, City *, Ville *
+606,"""consumers.create.user.payment.state"": ""State"",",consumers.create.user.payment.state, State, État
+607,"""consumers.create.user.payment.country"": ""Country *"",",consumers.create.user.payment.country, Country *, Pays *
+608,"""consumers.create.success.notify"": ""Consumer was created"",",consumers.create.success.notify, Consumer was created, Le consommateur a été créé
+609,"""consumers.update.success.notify"": ""Consumer was updated"",",consumers.update.success.notify, Consumer was updated, Le consommateur a été mis à jour
+610,"""budget.form.paid.at.title"": ""Paid at"",",budget.form.paid.at.title, Paid at, Payé à
+611,"""budget.form.paid.at.desc"": ""Confirm payment date or correct"",",budget.form.paid.at.desc, Confirm payment date or correct, Confirmer la date de paiement ou correct
+612,"""quotes.modal.archived.success.message"": ""Quote was arhived"",",quotes.modal.archived.success.message, Quote was arhived, La citation a été arhivée
+613,"""quotes.modal.confirm.archived.message"": ""Are you sure you want to archive quote №"",",quotes.modal.confirm.archived.message, Are you sure you want to archive quote №, Êtes-vous sûr de vouloir archiver la citation №
+614,"""header.title.Dashboard"": ""Dashboard"",",header.title.Dashboard, Dashboard,Tableau de bord
+615,"""header.title.Consumers"": ""Consumers"",",header.title.Consumers, Consumers,Consommateurs
+616,"""header.title.ManageFAQ"": ""Manage FAQ"",",header.title.ManageFAQ, Manage FAQ,Gérer la FAQ 
+617,"""header.title.Properties"": ""Properties"",",header.title.Properties, Properties,Propriétés
+618,"""header.title.Typologies"": ""Typologies"",",header.title.Typologies, Typologies,Typologies
+619,"""header.title.Categories"": ""Categories"",",header.title.Categories, Categories,Catégories
+620,"""header.title.Products"": ""Products"",",header.title.Products, Products,Des produits
+621,"""header.title.Projects"": ""Projects"",",header.title.Projects, Projects,Projets
+622,"""header.title.Roles"": ""The roles"",",header.title.Roles, The roles,Les rôles
+623,"""header.title.Users"": ""Users"",",header.title.Users, Users,Utilisateurs
+624,"""header.title.Leads"": ""Leads"",",header.title.Leads, Leads,Pistes
+625,"""header.title.Requests"": ""Requests"",",header.title.Requests, Requests,Demandes
+626,"""nav.group.managingProjects"": ""managing projects"",",nav.group.managingProjects, managing projects,gérer des projets
+627,"""nav.group.customizingProjects"": ""customizing projects"",",nav.group.customizingProjects, customizing projects,personnalisation de projets
+628,"""nav.group.settings"": ""settings"",",nav.group.settings, settings,réglages
+629,"""consumers.btn.upload.profile"": ""Upload profile picture""",consumers.btn.upload.profile, Upload profile picture, Télécharger une image de profil
+630," ""nav.contact.subject"": ""Subject*""", nav.contact.subject, Subject*,Sujette*
+631,"""nav.contact.message"": ""Message*""",nav.contact.message, Message*,Message*
+632,"""consumers.control.OnlyMyAcquirers"": ""Only my Acquirers"",",consumers.control.OnlyMyAcquirers, Only my Acquirers,Seuls mes acquéreurs
+633,"""gallery.validation.maxLength100"": ""Max length 100 symbol"",",gallery.validation.maxLength100, Max length 100 symbol, Longueur maximale 100 Symbole
+634,"""gallery.form.description"": ""Description"",",gallery.form.description, Description,Description
+635,"""dashboard.project.rented"": ""Rented"",",dashboard.project.rented, Rented, Loué
+636,"""modalSaveForUnmount.btn.save"": ""Save"",",modalSaveForUnmount.btn.save, Save, Sauvegarder
+637,"""modalSaveForUnmount.btn.cancle"": ""Cancel"",",modalSaveForUnmount.btn.cancle, Cancel, Annuler
+638,"""modalSaveForUnmount.btn.continue"": ""Leave without saving"",",modalSaveForUnmount.btn.continue, Leave without saving, Partir sans sauver
+639,"""modalSaveForUnmount.message"": ""Would you like to save your changes before leaving this page?""",modalSaveForUnmount.message, Would you like to save your changes before leaving this page?, Souhaitez-vous enregistrer vos modifications avant de quitter cette page?
+640,"""change.password.title"": ""Please create a new password"",",change.password.title, Please create a new password, S'il vous plaît créer un nouveau mot de passe
+641,"""common.title.unarchive"": ""Unarchive"",",common.title.unarchive, Unarchive, Insensif
+642,"""documents.modal.unarchived.success.message"": ""Document was unarhived"",",documents.modal.unarchived.success.message, Document was unarhived, Le document était non orifiée
+643,"""budget.modal.unarchived.success.message"": ""Invoice was unarhived"",",budget.modal.unarchived.success.message, Invoice was unarhived, La facture a été non orifiée
+644,"""quotes.modal.unarchived.success.message"": ""Quote was unarhived"",",quotes.modal.unarchived.success.message, Quote was unarhived, La citation était non orifiée
+645,"""dashboard.building"": ""Total building"",",dashboard.building, Total building, Bâtiment total
+646,"""login.page.resrorePass.error"": ""Please check your email is correct!"",",login.page.resrorePass.error, Please check your email is correct!, S'il vous plaît vérifier votre email est correct!
+647,"""login.page.resrorePass.access"": ""Please check your email and follow the instruction to reset your password."",",login.page.resrorePass.access, Please check your email and follow the instruction to reset your password, Veuillez vérifier votre email et suivez les instructions pour réinitialiser votre mot de passe.
+648,"""login.page.resrorePass.email.placeholder"": ""Email"",",login.page.resrorePass.email.placeholder, Email, E-mail
+649,"""login.page.resrorePass.email.validation"": ""Please input your email!"",",login.page.resrorePass.email.validation, Please input your email!, Veuillez saisir votre email!
+650,"""login.page.resrorePass.btn.restore"": ""Restore password"",",login.page.resrorePass.btn.restore, Restore password, Restaurer le mot de passe
+651,"""login.page.resrorePass.btn.forgot"": ""Forgot password?"",",login.page.resrorePass.btn.forgot, Forgot password?, Mot de passe oublié?

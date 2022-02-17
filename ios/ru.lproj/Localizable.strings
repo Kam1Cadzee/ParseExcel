@@ -1,0 +1,17 @@
+NSCameraUsageDescription = "Приложение требует доступ к камере. Данный доступ позволяет сделять фото для обложки.";
+NSContactsUsageDescription = "Приложение требует доступ к списку контактов. Приложение сопосталяет базу пользователей и список ваших контактов и отображает кто из ваших друзей использует RolBox. Приложение не хранит информацию о контактах.";
+NSPhotoLibraryUsageDescription = "Приложение требует доступ к библиотеке изображений. Данный доступ позволяет выбрать фото из галереи для обложки.";
+NSUserTrackingUsageDescription = "Можно ли использовать данные о вашей активности? Если вы разрешите, реклама RolBox на сайтах и в других приложениях будет более актуальной.";
+friendRequestTitle = "Запрос в друзья";
+friendRequestBody = "%@ хочет добавить тебя в друзья";
+createEventTitle = "Приглашение";
+createEventBody = "Вам отправлено пришлашение на %@";
+ = "";
+removeParticipantTitle = "%@";
+removeParticipantBody = "Приглашение %@ было отменено";
+ = "";
+deleteEventTitle = "%@";
+deleteEventBody = "Событие %@ было отменено";
+ = "";
+answerEventTitle = "%@";
+answerEventBody = "%@ has replied “%@” to invitation.";
